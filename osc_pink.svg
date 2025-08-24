@@ -1,0 +1,93 @@
+<!-- osc_pink.svg — Dracula pink oscilloscope -->
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Oscilloscope waveform">
+  <!-- Dracula palette: bg #282a36, grid #44475a, trace #ff79c6 -->
+
+  <defs>
+    <!-- Glow effect -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Glitchy displacement -->
+    <filter id="glitch" x="-50%" y="-50%" width="200%" height="200%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.006 0.02" numOctaves="2" seed="4" result="noise">
+        <animate attributeName="seed" values="2;5;9;2" dur="5s" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="8" xChannelSelector="R" yChannelSelector="G">
+        <animate attributeName="scale" values="6;10;6" dur="3s" repeatCount="indefinite"/>
+      </feDisplacementMap>
+    </filter>
+
+    <!-- Scanlines -->
+    <pattern id="scan" width="100%" height="6" patternUnits="userSpaceOnUse">
+      <rect width="100%" height="3" fill="#000" opacity="0.12"/>
+      <rect y="3" width="100%" height="3" fill="transparent"/>
+    </pattern>
+
+    <!-- One waveform tile -->
+    <symbol id="tile" viewBox="0 0 900 220">
+      <path d="
+        M 0,110
+        C  37.5,70  75,150 112.5,110
+        S 187.5,70 225,110
+        S 300,150 337.5,110
+        S 412.5,70 450,110
+        S 525,150 562.5,110
+        S 637.5,70 675,110
+        S 750,150 787.5,110
+        S 862.5,70 900,110
+      "
+        fill="none" stroke="#ff79c6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="900" height="220" rx="16" ry="16" fill="#282a36" stroke="#44475a" stroke-width="2"/>
+
+  <!-- Grid -->
+  <g opacity="0.35" stroke="#44475a" stroke-width="1">
+    <line x1="75" y1="10"  x2="75"  y2="210"/>
+    <line x1="150" y1="10" x2="150" y2="210"/>
+    <line x1="225" y1="10" x2="225" y2="210"/>
+    <line x1="300" y1="10" x2="300" y2="210"/>
+    <line x1="375" y1="10" x2="375" y2="210"/>
+    <line x1="450" y1="10" x2="450" y2="210"/>
+    <line x1="525" y1="10" x2="525" y2="210"/>
+    <line x1="600" y1="10" x2="600" y2="210"/>
+    <line x1="675" y1="10" x2="675" y2="210"/>
+    <line x1="750" y1="10" x2="750" y2="210"/>
+    <line x1="825" y1="10" x2="825" y2="210"/>
+    <line x1="10" y1="55"  x2="890" y2="55"/>
+    <line x1="10" y1="110" x2="890" y2="110"/>
+    <line x1="10" y1="165" x2="890" y2="165"/>
+  </g>
+
+  <!-- Oscilloscope label -->
+  <g font-family="ui-monospace, monospace" font-size="12" fill="#ff79c6" opacity="0.8">
+    <text x="20" y="28">Hi, I'm Ben... </text>
+    <!--<text x="870" y="28" text-anchor="end">AC · 1ms/div · 0.5V/div</text>-->
+  </g>
+
+  <!-- Trace with glow + glitch + scrolling -->
+  <g clip-path="url(#clip)" filter="url(#glow)">
+    <g filter="url(#glitch)">
+      <g transform="translate(0,0)">
+        <use href="#tile"/>
+        <use href="#tile" transform="translate(900,0)"/>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="6s" repeatCount="indefinite"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- Scanlines -->
+  <g>
+    <rect x="0" y="0" width="900" height="220" fill="url(#scan)" opacity="0.25">
+      <animate attributeName="opacity" values="0.22;0.28;0.22" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
+
