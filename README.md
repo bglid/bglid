@@ -10,11 +10,13 @@
  - MS in CL focused on Audio & Speech @ IU Bloomington
  - Background in Database Development
  - Former Music Producer
+ - Lover of language learning
 
  ### Interests:
- - Machine Learning & Data Science
+ - Speech and Signal Enhancement (signal denoising)
+ - Machine Learning & Software Engineering
  - Embedded Audio & Embedded ML
- <!-- - Learning Rust! -->
+ - Learning Rust! 
 
  - - - 
 <div style="display: flex; gap: 10px;">
