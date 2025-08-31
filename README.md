@@ -1,8 +1,5 @@
-<!-- <h1 align="center">Hi, I'm Ben 👋</h1> -->
+<h1 align="center">Hi, I'm Ben 👋</h1> 
 <!-- <p align="center"><strong>Speech &amp; Audio ML · DSP · Embedded</strong></p> -->
-<p align="center">
-  <img src="./osc_pink.svg" alt="oscilloscope" />
-</p>
 
 - - - 
 ### About Me:
