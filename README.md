@@ -14,18 +14,20 @@
  - 💻 Machine Learning & Software Engineering
  - 🔊 DSP 
  - 🧰 Embedded Audio & Embedded ML 
- - 🦀 Learning Rust 
 
  - - - 
-<div style="display: flex; gap: 10px;">
+| <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=bglid&show_icons=true&theme=dracula&rank_icon=github" height="200" align="center"/></a> | <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bglid&size_weight=0.5&langs_count=8&count_weight=0.5&theme=dracula&card_width=300&hide_progress=true" height="450" align="center"/> </a> |
+| ------------- | ------------- |
+- - - 
+<!-- <div style="display: flex; gap: 10px;">
   <a href="https://github.com/bglid/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=bglid&show_icons=true&theme=dracula&rank_icon=github" height="200" align="center"/>
   </a>
   <a href="https://github.com/bglid/convoychat">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bglid&size_weight=0.5&langs_count=8&count_weight=0.5&theme=dracula&card_width=300&hide_progress=true" height="450" align="center"/>
    </a>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bglid&hide_progress=true&theme=dracula" height="180"/> -->
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bglid&hide_progress=true&theme=dracula" height="180"/>
+</div> -->
 
 <!-- <div style="display: flex; gap: 10px;">
   <a href="https://github.com/bglid/github-readme-stats">
