@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ben 👋</h1> 
+<!-- <h1 align="center">Hi, I'm Ben 👋</h1>  -->
 <!-- <p align="center"><strong>Speech &amp; Audio ML · DSP · Embedded</strong></p> -->
 
 - - - 
@@ -11,9 +11,9 @@
 
  ### Interests:
  - 🎤 Speech and Signal Enhancement (signal denoising)
- - 💻 Machine Learning & Software Engineering
  - 🔊 DSP 
- - 🧰 Embedded Audio & Embedded ML 
+ - 💻 Audio Software Engineering & Machine Learning
+ - 🧰 Embedded Audio DSP & Embedded ML 
 
  - - - 
 | <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=bglid&show_icons=true&theme=holi&rank_icon=github" height="200" align="center"/></a> | <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bglid&size_weight=0.5&langs_count=8&count_weight=0.5&theme=holi&card_width=300&hide_progress=true" height="450" align="center"/> </a> |
