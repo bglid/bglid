@@ -16,7 +16,7 @@
  - 🧰 Embedded Audio DSP & Embedded ML 
 
  - - - 
-| <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=bglid&show_icons=true&theme=holi&rank_icon=github" height="200" align="center"/></a> | <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bglid&size_weight=0.5&langs_count=8&count_weight=0.5&theme=holi&card_width=300&hide_progress=true" height="450" align="center"/> </a> |
+| <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats-seven-eta-62.vercel.app/api?username=bglid&show_icons=true&theme=holi&rank_icon=github" height="200" align="center"/></a> | <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats-seven-eta-62.vercel.app/api/top-langs/?username=bglid&size_weight=0.5&langs_count=8&count_weight=0.5&theme=holi&card_width=300&hide_progress=true&hide=jupyter%20notebook,dockerfile,makefile,cmake" height="450" align="center"/> </a> |
 | ------------- | ------------- |
 - - - 
 <!-- <div style="display: flex; gap: 10px;">
