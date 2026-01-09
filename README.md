@@ -4,19 +4,20 @@
 - - - 
 ### About Me:
 
- - MS in CL focused on Audio & Speech @ IU Bloomington
- - Background in Database Development
+ - MS in CL: focused on Audio & Speech, @ IU Bloomington
+ - I enjoy building things for speech/audio
+ - I like to learn languages
  - Former Music Producer
- - Lover of language learning
+
 
  ### Interests:
- - 🎤 Speech and Signal Enhancement (signal denoising)
- - 🔊 DSP 
- - 💻 Audio Software Engineering & Machine Learning
- - 🧰 Embedded Audio DSP & Embedded ML 
+ - Speech and Signal Enhancement (signal denoising)
+ - DSP 
+ - Machine Learning
+ - Embedded Audio DSP & Embedded ML 
 
  - - - 
-| <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats-seven-eta-62.vercel.app/api?username=bglid&show_icons=true&theme=holi&rank_icon=github" height="200" align="center"/></a> | <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats-seven-eta-62.vercel.app/api/top-langs/?username=bglid&size_weight=0.5&langs_count=8&count_weight=0.5&theme=holi&card_width=300&hide_progress=true&hide=jupyter%20notebook,dockerfile,makefile,cmake,JavaScript,HTML,CSS,SCSS,TeX,Ruby" height="450" align="center"/> </a> |
+| <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats-seven-eta-62.vercel.app/api?username=bglid&show_icons=true&theme=holi&rank_icon=github" height="200" align="center"/></a> | <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats-seven-eta-62.vercel.app/api/top-langs/?username=bglid&size_weight=0.5&langs_count=6&count_weight=0.5&theme=holi&card_width=300&hide_progress=true&hide=jupyter%20notebook,dockerfile,makefile,cmake,JavaScript,HTML,CSS,SCSS,TeX,Ruby" height="450" align="center"/> </a> |
 | ------------- | ------------- |
 - - - 
 <!-- <div style="display: flex; gap: 10px;">
