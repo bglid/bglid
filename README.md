@@ -4,11 +4,12 @@
 - - - 
 ### About Me:
 
+ - Cloud Engineering by day, Systems stuff by night (morning)
  - IU Bloomington MS in CL Grad: focused on Audio & Speech
  - I enjoy building things for speech/audio
  - I like to learn languages
  - Former Music Producer
- - I enjoy random projects from time to time
+ - I enjoy random projects from time to time and just enjoy coding
 
 
  ### Interests:
@@ -17,11 +18,12 @@
  - DSP & ML
  - OCaml 🐫 & Rust 🦀 
  - Embedded Systems
+ - Currently doing some Networking stuff.
 
  - - - 
 <!-- |<a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats-seven-eta-62.vercel.app/api?username=bglid&show_icons=true&theme=holi&rank_icon=github" height="200" align="center"/></a> | <a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats-seven-eta-62.vercel.app/api/top-langs/?username=bglid&size_weight=0.5&langs_count=6&count_weight=0.5&theme=holi&card_width=300&hide_progress=true&hide=jupyter%20notebook,dockerfile,makefile,cmake,JavaScript,HTML,CSS,SCSS,TeX,Ruby" height="450" align="center"/> </a> |
 | ------------- | ------------- | -->
-<a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats-seven-eta-62.vercel.app/api/top-langs/?username=bglid&size_weight=0.5&langs_count=6&count_weight=0.5&theme=apprentice&card_width=300&hide_progress=true&hide=jupyter%20notebook,dockerfile,makefile,cmake,JavaScript,HTML,CSS,SCSS,TeX,Ruby,Shell,Dune,Apex" height="450" align="center"/> </a> 
+<a href="https://github.com/bglid/github-readme-stats"><img src="https://github-readme-stats-seven-eta-62.vercel.app/api/top-langs/?username=bglid&size_weight=0.5&langs_count=6&count_weight=0.5&theme=dark&card_width=300&hide_progress=true&hide=jupyter%20notebook,dockerfile,makefile,cmake,JavaScript,HTML,CSS,SCSS,TeX,Ruby,Shell,Dune,Apex" height="450" align="center"/> </a> 
 
 - - - 
 <!-- <div style="display: flex; gap: 10px;">
