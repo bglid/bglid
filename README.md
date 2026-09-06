@@ -4,12 +4,11 @@
 - - - 
 ### About Me:
 
- - Cloud Engineering by day, Systems stuff by night (morning)
  - IU Bloomington MS in CL Grad: focused on Audio & Speech
  - I enjoy building things for speech/audio
  - I like to learn languages
  - Former Music Producer
- - I enjoy random projects from time to time and just enjoy coding
+ - I enjoy random projects and just enjoy coding and learning
 
 
  ### Interests:
